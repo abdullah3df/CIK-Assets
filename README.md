@@ -7,8 +7,12 @@ This repository contains the **official assets for CIK Coin**, including:
 - Metadata for integration with platforms
 
 ## Logo Preview
-![CIK Coin Logo](![CIK Coin Logo](https://raw.githubusercontent.com/abdullah3df/CIK-Assets/refs/heads/main/CIK_COIN_LOGO_TRANSPARENT_500x500%20(1).png))
 
+### Main Logo (500×500)
+![CIK Coin Logo](https://raw.githubusercontent.com/abdullah3df/CIK-Assets/refs/heads/main/CIK_COIN_LOGO_TRANSPARENT_500x500%20(1).png)
+
+### Small Logo (256×256)
+![CIK Coin Logo Small](https://raw.githubusercontent.com/abdullah3df/CIK-Assets/refs/heads/main/CIK_COIN_LOGO_TRANSPARENT_256x256.png)
 ## Usage
 You may use these assets for:
 - Adding CIK Coin to wallets (MetaMask, TrustWallet)

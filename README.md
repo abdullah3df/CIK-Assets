@@ -7,7 +7,7 @@ This repository contains the **official assets for CIK Coin**, including:
 - Metadata for integration with platforms
 
 ## Logo Preview
-![CIK Coin Logo](https://raw.githubusercontent.com/abdullah3df/CIK-Assets/main/CIK_COIN_LOGO_TRANSPARENT_500x500.png)
+![CIK Coin Logo](![CIK Coin Logo](https://raw.githubusercontent.com/abdullah3df/CIK-Assets/refs/heads/main/CIK_COIN_LOGO_TRANSPARENT_500x500%20(1).png))
 
 ## Usage
 You may use these assets for:
